@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://localhost/');
 define('DIR_APPLICATION', '/Users/EalonHuang/Cretve_Projects/open_cart_commerce_system/public/admin/');
 define('DIR_SYSTEM', '/Users/EalonHuang/Cretve_Projects/open_cart_commerce_system/public/system/');
 define('DIR_IMAGE', '/Users/EalonHuang/Cretve_Projects/open_cart_commerce_system/public/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', '/Users/EalonHuang/Cretve_Projects/open_cart_commerce_system/storage/');
 define('DIR_CATALOG', '/Users/EalonHuang/Cretve_Projects/open_cart_commerce_system/public/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
